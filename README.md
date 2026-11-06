@@ -11,6 +11,7 @@ Analisis_Pendapatan_POS/
 │   └── processed/    # data hasil pembersihan
 ├── notebooks/
 │   └── analisis_pendapatan_pos.ipynb
+│   └── tugas_manipulasi_data_pandas.ipynb
 ├── output/           # tabel & grafik hasil
 ├── requirements.txt
 ├── .gitignore
